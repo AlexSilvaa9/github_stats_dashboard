@@ -3,6 +3,10 @@
 
 This project presents a dashboard that displays statistics from your GitHub account using data fetched through the GitHub API. The data includes metrics such as the number of commits, collaborators, stars, forks, and more.
 
+![Dashboard Image](dashboard.png)
+
+Access the live dashboard here: [https://alexsilvaa9.github.io/github_stats_dashboard/](https://alexsilvaa9.github.io/github_stats_dashboard/)
+
 ## Technologies
 
 - Python
